@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, white 0%, black 100%);
+}
+h1{
+    text-align: center;
+    color: darkred;
+}
+h3{
+    color: darkred;
+}
+.meu-conteiner{
+    display: flex; height: 50px; justify-content: space-around; align-items: center;
+}
+.item-conteiner{
+    color: darkred;
+}
+img{
+    border-width: 2px; border-style: solid; border-color: black;
+}
+.texto{
+    display: block; width: 500px;
+    color: darkred;
+}
